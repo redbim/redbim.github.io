@@ -2523,6 +2523,9 @@ button:disabled,
 .wrapper.style4 {
   background-color: transparent;
 }
+.wrapper.style4 header p {
+  color: rgba(255, 255, 255, 0.75);
+}
 .wrapper.style5 {
   background-color: #ffffff;
   color: #4E4852;
